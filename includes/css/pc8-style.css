@@ -1,0 +1,225 @@
+input[type=text], textarea {
+	border-color: #C2BABA
+}
+
+/*Table CSS */
+
+.pc8-table {
+	display: inline-block;
+	vertical-align: top;
+	width: 600px;
+}
+
+.column-title, .column-rating, .column-director {
+	width: 200px !important;
+}
+
+.pc8-form-contain {
+	display: inline-block;
+	width: 300px;
+	vertical-align: top;
+}
+
+.pc8-product-contain {
+	display: inline-block;
+	width: 400px;
+	padding-right: 100px;
+	vertical-align: top;
+}
+
+.bold-text {
+	font-weight: bold !important;
+}
+
+.pc8-menubar {
+	display: table;
+	height: 35px;
+	margin-bottom: 30px;
+	border-bottom: 12px solid #444;
+}
+
+.pc8-menuitem {
+	display: inline-block;
+	padding: 15px 30px;
+	color: white;
+	margin-right: 4px;
+	margin-top: 20px;
+	background-color: #222;
+}
+
+.no-margin {
+	margin: 0;
+}
+
+.pc8-link {
+	text-decoration: none;
+	color: inherit;
+}
+
+.pc8-bg {
+	background-color: #444;
+}
+
+div.updated {
+	height: 30px;
+	padding-top: 12px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	font-size: 14px;
+	width: 875px;
+}
+
+.pc8-contain {
+	width: 60%;
+}
+
+.pc8-bottom-20 {
+	margin-bottom: 20px;
+}
+
+.form-field-product {
+	width: 200px;
+}
+
+.pc8-default-input {
+	width: 185px;
+}
+
+#pc8-extralist, #pc8-thelist { 
+	list-style-type: none; 
+	height: 900px;
+	width: 250px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#pc8-extralist li, #pc8-thelist li { 
+	padding: 5px; 
+	font-size: 1.2em;
+	width: 120px; 
+	border: 1px solid #fcefa1; 
+	color: white; 
+}
+
+.pc8-dark {
+	background-color: #a7a7a7; 
+}
+
+.pc8-left-15 {
+	margin-left: 15px;
+}
+
+.pc8-left-30 {
+	margin-left: 30px;
+}
+.pc8-light {
+	background-color: #ffca80;
+}
+
+.pc8-lightblue {
+	background-color: #2288bb;
+}
+
+
+#pc8-thelist {
+	width: 200px;
+	background-color: #000000;
+}
+
+#info {
+	width: 600px;
+	height: 600px;
+	background-color: grey;
+	display: inline-block;
+}
+
+.pc8-small-input {
+	width: 30px;
+	text-align: center;
+}
+
+.pc8-med-input {
+	width: 40px;
+	text-align: center;
+}
+
+.column-ordering {
+	width: 12%;
+}
+
+.pc8-save-order {
+	float: right;
+	margin-top: 10px !important;
+}
+
+.ui-widget-overlay {
+    z-index: 80 !important;   
+}
+
+.pc8-center-div {
+	float: right;
+}
+
+.pc8-right {
+	float: right;
+}
+
+.ui-widget-overlay {
+    background-repeat: repeat !important;
+	background: #222;
+}
+
+.pc8-notice {
+	opacity: 0;	
+	width: 875px;
+}
+
+.pc8-90 {
+	width: 90%;
+}
+
+.column-categ-description{
+	width: 50%;
+}
+
+.column-catalog-description {
+	width: 40%;
+}
+
+.pc8-mainpage-contain {
+	float: left;
+	width: 40%;
+	margin-right: 10%;
+	margin-left: 5%;
+}
+
+.pc8-mainpage-right {
+	float: right;
+	width: 40%;
+}
+
+.pc8-list {
+	margin-left: 20px;
+	list-style-type: circle;
+}
+
+.pc8-settings-contain {
+	margin-left: 3%;
+	float: left;
+	width: 20%;
+}
+
+.pc8-settings-right {
+	float: left;
+	width: 40%;
+	margin-top: 50px;
+}
+
+.pc8-instructions {
+	margin-top: 20px;
+	margin-left: 45px;
+	font-size: 14px;
+}
+
+
+
